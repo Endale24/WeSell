@@ -1,0 +1,1 @@
+chrome-extension://bbhicndilgleommagpdoflceilfeilln/mqFrameContentScript.bundle.js
